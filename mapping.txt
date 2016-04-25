@@ -1,0 +1,27 @@
+#mac             hostname
+# Andre's switches
+48:0f:cf:af:04:76     spine01
+48:0f:cf:af:14:9e     spine02
+48:0f:cf:af:24:32     spine03
+48:0f:cf:af:46:e2     spine04
+48:0f:cf:af:56:76     leaf05
+48:0f:cf:af:d6:44     leaf06
+48:0f:cf:af:34:5a     ace07
+
+# Web Scale 2 Env - Corey
+#48:0f:cf:af:b4:bc     myfile
+#48:0f:cf:af:b4:bc     ws2-leaf1_base
+48:0f:cf:af:d3:48     ws2-leaf2_base
+48:0f:cf:ad:e1:78     ws2-spine1_base 
+48:0f:cf:ad:63:d8     ws2-spine2_base 
+48:0f:cf:ad:63:56     ws2-spine3_base 
+48:0f:cf:ad:51:d6     ws2-spine4_base
+
+# Sergio's env
+48:0f:cf:b0:40:56     perf-sw-5
+48:0f:cf:af:24:7c     sr_sandbox-2
+#48:0f:cf:af:34:10     sr-sandbox-2
+
+# Srinath's switches
+48:0f:cf:af:45:fc     acl_25
+48:0f:cf:af:f3:98     gn_sandbox_45
